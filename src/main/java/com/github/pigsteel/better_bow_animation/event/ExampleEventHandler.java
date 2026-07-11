@@ -1,6 +1,6 @@
-package com.example.modtemplate.event;
+package com.github.pigsteel.better_bow_animation.event;
 
-import com.example.modtemplate.ModTemplate;
+import com.github.pigsteel.better_bow_animation.ModTemplate;
 import net.minecraft.server.level.ServerPlayer;
 
 import java.util.Objects;

@@ -1,5 +1,5 @@
 {
-  "package": "com.example.modtemplate.mixin",
+  "package": "com.github.pigsteel.better_bow_animation.mixin",
   "required": true,
   "minVersion": "0.8",
   "compatibilityLevel": "${java}",

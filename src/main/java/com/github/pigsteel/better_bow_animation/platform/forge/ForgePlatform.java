@@ -1,8 +1,8 @@
-package com.example.modtemplate.platform.forge;
+package com.github.pigsteel.better_bow_animation.platform.forge;
 
 //? forge {
 
-/*import com.example.modtemplate.platform.Platform;
+/*import com.github.pigsteel.better_bow_animation.platform.Platform;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.loading.FMLLoader;
 

@@ -1,6 +1,6 @@
-package com.example.modtemplate.mixin;
+package com.github.pigsteel.better_bow_animation.mixin;
 
-import com.example.modtemplate.ModTemplate;
+import com.github.pigsteel.better_bow_animation.ModTemplate;
 import dev.kikugie.fletching_table.annotation.MixinEnvironment;
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

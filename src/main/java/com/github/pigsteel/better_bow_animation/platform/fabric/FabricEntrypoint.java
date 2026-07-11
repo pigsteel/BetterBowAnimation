@@ -1,8 +1,8 @@
-package com.example.modtemplate.platform.fabric;
+package com.github.pigsteel.better_bow_animation.platform.fabric;
 
 //? fabric {
 
-import com.example.modtemplate.ModTemplate;
+import com.github.pigsteel.better_bow_animation.ModTemplate;
 import dev.kikugie.fletching_table.annotation.fabric.Entrypoint;
 import net.fabricmc.api.ModInitializer;
 

@@ -1,8 +1,8 @@
-package com.example.modtemplate.platform.neoforge;
+package com.github.pigsteel.better_bow_animation.platform.neoforge;
 
 //? neoforge {
 
-/*import com.example.modtemplate.ModTemplate;
+/*import com.github.pigsteel.better_bow_animation.ModTemplate;
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.common.EventBusSubscriber;

@@ -1,4 +1,4 @@
-package com.example.modtemplate.platform;
+package com.github.pigsteel.better_bow_animation.platform;
 
 public interface Platform {
 	boolean isModLoaded(String modId);
